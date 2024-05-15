@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis using Logistic Regression
+# Sentiment Analysis using Logistic Regression
 
 This repository contains the ipynb file for a machine learning model used to predict the sentiment analysis of a tweet on the popular website 'X'(formerly Twitter).
 It uses **Logistic Regression** to create a model to analyse he tweet. 
